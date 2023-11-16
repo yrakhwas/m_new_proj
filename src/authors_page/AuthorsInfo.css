@@ -1,4 +1,4 @@
 .author_container
 {
-    display: inline-block;
+    display: flex;
 }
